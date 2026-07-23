@@ -2,7 +2,7 @@
 <h3 align="center">Building the future, one idea at a time 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlexandreGrillet&label=Profile%20views&color=0e75b6&style=flat" alt="MeganeFarelle" />
+  <img src="https://komarev.com/ghpvc/?username=AlexandreGrillet&label=Profile%20views&color=0e75b6&style=flat" alt="AlexandreGrillet" />
 </p>
 
 <p align="center">
