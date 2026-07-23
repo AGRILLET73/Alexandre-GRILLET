@@ -2,7 +2,7 @@
 <h3 align="center">Building the future, one idea at a time 🚀</h3>
 
 <p align="center">
-  <img src=![] (https://komarev.com/ghpvc/?username=AGRILLET73&label=Profile&color=bue&style=flat) />
+  <img src=![] (https://komarev.com/ghpvc/?username=AGRILLET73&label=Profile&color=bue&style=flat) alt=AGRILLET73/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=Gestion projet IT transverses dans divers secteurs d'activité IT_RH_Gestion Financière_Logistique+%7C+First Certificat Gestion Entreprise+%2B+Formateur IT+%2B+Sureté-Surveillance" alt="Typing SVG" />
