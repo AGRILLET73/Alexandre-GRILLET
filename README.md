@@ -30,7 +30,7 @@
 ### Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,mysql,postgres,docker,python,github,git,bash,jenkins,nginx,terraform,ansible,promotheus,grafana,datadog" />
+  <img src="https://skillicons.dev/icons?i=aws,mysql,postgres,docker,python,github,git,bash,jenkins,nginx,terraform,ansible,prometheus,grafana,datadog" />
 </p>
 
 ---
